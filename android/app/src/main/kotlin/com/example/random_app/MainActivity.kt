@@ -1,4 +1,4 @@
-package com.example.random_app
+package com.vindev.random_app
 
 import io.flutter.embedding.android.FlutterActivity
 

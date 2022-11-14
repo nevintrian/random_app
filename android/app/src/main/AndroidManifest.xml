@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.random_app">
+    package="com.vindev.random_app">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="random_app"
